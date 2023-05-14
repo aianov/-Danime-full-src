@@ -1,0 +1,31 @@
+.anime-schedule{
+    margin-top: 120px;
+}
+
+
+.day-slider h2{
+    color: white;
+    padding-left: 40px;
+    font-size: 40px;
+}
+
+
+@media (max-width: 1280px) {
+    .day-slider h2{
+        color: white;
+        padding-left: 30px;
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 768px) {
+    .anime-schedule{
+        margin-top: 180px;
+    }
+
+    .day-slider h2{
+        color: white;
+        padding-left: 20px;
+        font-size: 20px;
+    }
+}
